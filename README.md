@@ -1,0 +1,1 @@
+# TEACHING-K8S_minikube
